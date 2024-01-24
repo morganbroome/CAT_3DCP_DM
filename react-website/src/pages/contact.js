@@ -4,8 +4,7 @@ const Contact = () => {
     return (
         <div>
             <h1>
-                Mail us on 
-                feedback@geeksforgeeks.org
+                Mail us at email@cat.com
             </h1>
         </div>
     );
